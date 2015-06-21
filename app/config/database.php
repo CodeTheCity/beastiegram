@@ -54,10 +54,10 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => 'mysql6.namesco.net',
-			'database'  => 'PH405488_app',
-			'username'  => 'root_app',
-			'password'  => 'szynszyl1',
+			'host'      => '',
+			'database'  => '',
+			'username'  => '',
+			'password'  => '',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
